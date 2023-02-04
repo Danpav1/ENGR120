@@ -6,6 +6,7 @@
  * as well as how long it will take for the object to come to rest given those data points.
  */
 #include <stdio.h>
+#define MPH_TO_MPS 0.44704
 
 //method declaration(s)
 double calculateAcceleration(double initialVelocity, double finalVelocity);
@@ -31,7 +32,7 @@ double calculateAcceleration(double initialVelocity, double finalVelocity)
 double calculateTimeToRest(double initialVelocity, double acceleration)
 {
     double time;
-    double finalVelocity = 0.0;
+    double finalVelocity = 0;
 
     time = (finalVelocity - initialVelocity) / acceleration;
 
@@ -45,9 +46,11 @@ int main()
 
     printf("What was the cylist's initial speed?: \n");
     scanf("%lf", &initialVelocity);
+    initialVelocity = initialVelocity * MPH_TO_MPS;
 
     printf("What was the cylist's final speed?: \n");
     scanf("%lf", &finalVelocity);
+    finalVelocity = finalVelocity * MPH_TO_MPS;
 
     acceleration = calculateAcceleration(initialVelocity, finalVelocity);
     secondsToRest = calculateTimeToRest(initialVelocity, acceleration);

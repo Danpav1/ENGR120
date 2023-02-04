@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/paven/CLionProjects/Lab_1_P3/cmake-build-debug"
+			"value" : "c:/Users/paven/Desktop/CodingStuff/CLion/CLionProjects/Lab_1_P3/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -431,7 +431,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/paven/CLionProjects/Lab_1_P3/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/paven/Desktop/CodingStuff/CLion/CLionProjects/Lab_1_P3/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -503,7 +503,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/paven/CLionProjects/Lab_1_P3"
+			"value" : "C:/Users/paven/Desktop/CodingStuff/CLion/CLionProjects/Lab_1_P3"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1119,7 +1119,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/paven/CLionProjects/Lab_1_P3/cmake-build-debug"
+			"value" : "C:/Users/paven/Desktop/CodingStuff/CLion/CLionProjects/Lab_1_P3/cmake-build-debug"
 		},
 		{
 			"name" : "Lab_1_P3_IS_TOP_LEVEL",
@@ -1143,7 +1143,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/paven/CLionProjects/Lab_1_P3"
+			"value" : "C:/Users/paven/Desktop/CodingStuff/CLion/CLionProjects/Lab_1_P3"
 		},
 		{
 			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",
