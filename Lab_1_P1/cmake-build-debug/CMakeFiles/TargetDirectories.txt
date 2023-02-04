@@ -1,0 +1,3 @@
+C:/Users/paven/Desktop/CodingStuff/CLion/CLionProjects/Lab_1_P1/cmake-build-debug/CMakeFiles/LabOne.dir
+C:/Users/paven/Desktop/CodingStuff/CLion/CLionProjects/Lab_1_P1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/paven/Desktop/CodingStuff/CLion/CLionProjects/Lab_1_P1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
