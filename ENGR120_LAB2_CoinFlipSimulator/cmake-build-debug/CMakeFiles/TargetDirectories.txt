@@ -1,0 +1,3 @@
+C:/Users/paven/CLionProjects/ENGR120_LAB2_CoinFlipSimulator/cmake-build-debug/CMakeFiles/ENGR120_LAB2_CoinFlipSimulator.dir
+C:/Users/paven/CLionProjects/ENGR120_LAB2_CoinFlipSimulator/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/paven/CLionProjects/ENGR120_LAB2_CoinFlipSimulator/cmake-build-debug/CMakeFiles/rebuild_cache.dir

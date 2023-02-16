@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ENGR120_LAB2_CoinFlipSimulator",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ENGR120_LAB2_CoinFlipSimulator::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ENGR120_LAB2_CoinFlipSimulator-Debug-e163931d1ac95f9ac32c.json",
+					"name" : "ENGR120_LAB2_CoinFlipSimulator",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/paven/CLionProjects/ENGR120_LAB2_CoinFlipSimulator/cmake-build-debug",
+		"source" : "C:/Users/paven/CLionProjects/ENGR120_LAB2_CoinFlipSimulator"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
