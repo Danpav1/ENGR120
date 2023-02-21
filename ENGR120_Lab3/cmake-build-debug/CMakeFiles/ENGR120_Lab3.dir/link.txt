@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/ENGR120_Lab3.dir/main.c.o -o ENGR120_Lab3  -lm 
